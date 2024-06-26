@@ -1,0 +1,37 @@
+[
+    {
+        "nombre": "Benito",
+        "edad": "2 años",
+        "tipo": "perro",
+        "color": "blanco",
+        "enfermedad": "vomitos"
+    },
+    {
+        "nombre": "Pimienta",
+        "edad": "1 año",
+        "tipo": "gato",
+        "color": "negro",
+        "enfermedad": "alergia"
+    },
+    {
+        "nombre": "Canela",
+        "edad": "4 años",
+        "tipo": "perro",
+        "color": "cafe",
+        "enfermedad": "dolor de cabeza"
+    },
+    {
+        "nombre": "Rollito",
+        "edad": "6 meses",
+        "tipo": "Hamster",
+        "color": "cafe",
+        "enfermedad": "indigestion"
+    },
+    {
+        "nombre": "Rayito",
+        "edad": "3 años",
+        "tipo": "gato",
+        "color": "amarillo",
+        "enfermedad": "herida"
+    }
+]
